@@ -17,4 +17,11 @@ npm i
 > 6. sequelize-cli
 > 7. nodemon
 
+## Folders
+
+![Folders](https://i.hizliresim.com/835ehbh.png)
+
+![Folders](https://i.hizliresim.com/47zge4o.png)
+
+
 So ready to use.
