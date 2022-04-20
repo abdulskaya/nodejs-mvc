@@ -16,6 +16,7 @@ npm i
 > 5. sequelize
 > 6. sequelize-cli
 > 7. nodemon
+> 8. dotenv
 
 ## Folders
 
