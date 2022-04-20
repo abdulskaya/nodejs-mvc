@@ -20,9 +20,9 @@ npm i
 
 ## Folders
 
-![Folders](https://i.hizliresim.com/835ehbh.png)
+![Folders](https://i.hizliresim.com/ju4f5he.png)
 
-![Folders](https://i.hizliresim.com/47zge4o.png)
+![Folders](https://i.hizliresim.com/91wbw9h.png)
 
 
 So ready to use.
